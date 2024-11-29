@@ -42,7 +42,7 @@ The calculator supports the following computations:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/actuarial-calculator-suite.git
+   git clone https://github.com/bunkcorp/actuarial-calculator-suite.git
    cd actuarial-calculator-suite
    ```
 
